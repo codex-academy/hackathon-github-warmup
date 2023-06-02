@@ -10,3 +10,21 @@
 * Merge requests
 
 
+# Repo approaches
+
+## Main repo:
+
+  -> forked by many others into their own repo
+  -> change are sent into repos using pull requests across repos.
+  
+## One repo 
+
+-> with many users using the same repo.
+-> 
+
+
+
+
+
+
+
